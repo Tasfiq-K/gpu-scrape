@@ -1,0 +1,4 @@
+.vscode
+geckodriver.log
+*.txt
+rough.py
