@@ -1,4 +1,4 @@
 .vscode
 geckodriver.log
-*.txt
+links.txt
 rough.py
